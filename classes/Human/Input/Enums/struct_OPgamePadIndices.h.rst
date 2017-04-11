@@ -1,7 +1,0 @@
-OPgamePadIndices.h
-=========
-
-Globals
-----------------
-Functions
-----------------

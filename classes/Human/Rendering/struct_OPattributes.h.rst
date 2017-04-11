@@ -1,7 +1,0 @@
-OPattributes.h
-=========
-
-Globals
-----------------
-Functions
-----------------

@@ -1,7 +1,0 @@
-OPgamePadAxes.h
-=========
-
-Globals
-----------------
-Functions
-----------------

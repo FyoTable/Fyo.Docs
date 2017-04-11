@@ -1,7 +1,0 @@
-OPRendererTypes.h
-=========
-
-Globals
-----------------
-Functions
-----------------

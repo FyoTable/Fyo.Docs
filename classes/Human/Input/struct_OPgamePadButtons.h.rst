@@ -1,7 +1,0 @@
-OPgamePadButtons.h
-=========
-
-Globals
-----------------
-Functions
-----------------
