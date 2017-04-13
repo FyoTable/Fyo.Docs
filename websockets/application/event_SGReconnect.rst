@@ -6,6 +6,6 @@ Node emits an 'SGReconnect' when a controller re-connects to the Fyo Node Server
 .. code-block:: javascript
 
 	socket.on('SGReconnect', function(packet) {
-    console.log(packet.PlayerId); // int
-    console.log(packet.DeviceId); // string
+		console.log(packet.PlayerId); // int
+		console.log(packet.DeviceId); // string
 	});
