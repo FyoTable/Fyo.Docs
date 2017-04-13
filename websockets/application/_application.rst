@@ -6,4 +6,9 @@ Application
    :name: toc-class-ref
    :glob:
 
-   event_*
+   event_AppHandshakeMsg
+   event_AppEndMsg
+   event_SGHandshakeMsg
+   event_SGUpdateMsg
+   event_SGDisconnectMsg
+   event_SGReconnect
