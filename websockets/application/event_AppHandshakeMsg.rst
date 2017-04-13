@@ -28,7 +28,7 @@ The node server will then statically serve them via your AppIDString.
 	Example: 
 	If your AppIDString is 'TicTacToe' and you supply a Base64 Zip File with a file named Mark_X.png 
 	You could access it with http://localhost:8080/TicTacToe/Mark_X.png 
-	 *where localhost is where the Fyo Node Server is running.*
+	*where localhost is where the Fyo Node Server is running.*
 
 An index.html is the only required file in your Zip File.
 
