@@ -6,6 +6,6 @@ Node emits an 'SGDisconnectMsg' when a controller disconnects from the Fyo Node 
 .. code-block:: javascript
 
 	socket.on('SGDisconnectMsg', function(packet) {
-    console.log(packet.PlayerId); // int
-    console.log(packet.DeviceId); // string
+		console.log(packet.PlayerId); // int
+		console.log(packet.DeviceId); // string
 	});
