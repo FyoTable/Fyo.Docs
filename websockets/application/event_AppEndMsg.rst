@@ -6,5 +6,5 @@ Node emits an 'AppEndMsg' when the game should quit. This happens when there are
 .. code-block:: javascript
 
 	socket.on('AppEndMsg', function() {
-    // Node told the game to end
+		// Node told the game to end
 	});
