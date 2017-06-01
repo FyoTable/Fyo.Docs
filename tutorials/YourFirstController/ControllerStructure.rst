@@ -15,4 +15,8 @@ In the above example, there are 3 controllers.
 * base_3D_controller/Human
 * base_3D_controller/Zombie
 
-When your controllers are ready all you have to do is zip the directory, and send it as the BinaryPayload.
+When your controllers are ready all you have to do is zip the parent directory (base_3D_controller in the example above), and send it as the BinaryPayload of the AppHandshakeMsg.
+
+.. image:: HowToCompress.png
+
+.. image:: CompressedZip.png
