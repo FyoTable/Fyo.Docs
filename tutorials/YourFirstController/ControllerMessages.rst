@@ -39,17 +39,19 @@ Built in renderables
         }
     });           
 	
+.. code-block:: javascript
+
 	var buttonRenderer = new FYO.Button2D(connecter, {
-        container: 'mainContainer', // Which element ID to place it in (optional, will default to body)
-        image: '/fyogametable/assets/imgs/Button_B_2D.png', // image used to render the button, this is built in
-        ondown: function () {
+		container: 'mainContainer', // Which element ID to place it in (optional, will default to body)
+		image: '/fyogametable/assets/imgs/Button_B_2D.png', // image used to render the button, this is built in
+		ondown: function () {
 			// This will automatically do a connector.Send event internally on the connector
 			// using a the generic 20 number array system
-            connecter.SetButtonOn(FYO.BUTTON[0]);
-        },
-        onup: function () {
+			connecter.SetButtonOn(FYO.BUTTON[0]);
+		},
+		onup: function () {
 			// This will automatically do a connector.Send event internally on the connector
 			// using a the generic 20 number array system
-            connecter.SetButtonOff(FYO.BUTTON[0]);
-        }
-    });
+			connecter.SetButtonOff(FYO.BUTTON[0]);
+		}
+	});

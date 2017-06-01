@@ -1,7 +1,7 @@
 Fyo Controller Folder
 ===================
 
-First open the Fyo Server. Then open the utilities.
+First open the Fyo Server ( http://docs.fyo.io/FyoGameTable.Release.zip ). Then open the utilities.
 
 .. image:: ../../images/FyoMainScreen.png
 
