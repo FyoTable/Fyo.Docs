@@ -7,3 +7,4 @@ Your First Controller
    FyoControllerFolder
    ControllerStructure   
    SettingUpController
+   ControllerMessages

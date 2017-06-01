@@ -7,7 +7,8 @@ Ex: If I was making a Tic Tac Toe clone, my app id would be tictactoe
 
 .. image:: copypastefolder.png
 
-# Or From Scratch
+Or From Scratch
+===================
 
 The controller has a connection to the Fyo Server via Socket.io (WebSockets). Socket.io is served up via the Fyo Server, which means socket.io has to be included via
 
@@ -21,7 +22,7 @@ The next javascript library to be included is the Fyo Game Table API, which is a
 
 	<script src="/fyogametable/dist/fyo.js"></script>
 
-Now that the two required libraries are loaded, we just need to tell start the connection.
+Now that the two required libraries are loaded, we just need to start the connection.
 
 .. code-block:: javascript
 
