@@ -7,7 +7,7 @@ Ex: If I was making a Tic Tac Toe clone, my app id would be tictactoe
 
 .. image:: copypastefolder.png
 
-Or From Scratch
+From Scratch
 ===================
 
 The controller has a connection to the Fyo Server via Socket.io (WebSockets). Socket.io is served up via the Fyo Server, which means socket.io has to be included via
