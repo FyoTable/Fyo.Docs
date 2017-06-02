@@ -7,4 +7,6 @@ Your First Controller
    FyoControllerFolder
    ControllerStructure   
    SettingUpController
+   SettingUpFromScratch
    ControllerMessages
+   ThumbsticksButtons
